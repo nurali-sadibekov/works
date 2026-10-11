@@ -1,7 +1,7 @@
 # Site settings
 locale: "en-US"
 baseurl: "/short-stories"
-url: "http://sadibekov.github.io"
+url: "http://nurali-sadibekov.github.io"
 
 # Collections
 collections:
